@@ -1,0 +1,8 @@
+
+A company plans to expand into new markets with five existing products. Based on market research, the new market's behavior is expected to resemble their current market.
+
+In their current market, customers are divided into four segments (A, B, C, D), and targeted outreach for each segment has proven effective. The company now wants to apply the same segmentation strategy to 2,627 potential customers in the new market.
+
+Your task is to assist in predicting the appropriate segment for each new customer.
+
+Output should be filled csv file(test2.csv).
