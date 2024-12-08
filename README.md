@@ -48,7 +48,7 @@ The dataset used in this project consists of customer demographic information an
    git clone https://github.com/username/repository-name.git
    cd repository-name
 
-## 6. Running the Code
+## Running the Code
 
 ### Run the Jupyter Notebook:
 To start the Jupyter Notebook, use the following command:
