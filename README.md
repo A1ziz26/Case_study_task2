@@ -9,7 +9,7 @@ This project is aimed at building a machine learning model to predict customer s
 - [Data Description](#data-description)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Code](#running-the-code)
-- [Model Evaluation](#outputs)
+- [Predictions](#outputs)
 
 ## Requirements
 To run this project, ensure the following dependencies are installed:
