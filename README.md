@@ -45,8 +45,7 @@ The dataset used in this project consists of customer demographic information an
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/A1ziz26/Case_study_task2.git
 
 ## Running the Code
 
