@@ -9,7 +9,7 @@ This project is aimed at building a machine learning model to predict customer s
 - [Data Description](#data-description)
 - [Setup and Installation](#setup-and-installation)
 - [Running the Code](#running-the-code)
-- [Model Evaluation](#model-evaluation)
+- [Model Evaluation](#outputs)
 
 ## Requirements
 To run this project, ensure the following dependencies are installed:
@@ -50,8 +50,22 @@ The dataset used in this project consists of customer demographic information an
 
 ## Running the Code
 
-### Run the Jupyter Notebook:
-To start the Jupyter Notebook, use the following command:
-
+**Run the Jupyter Notebook**:
+1. To start the Jupyter Notebook, use the following command:
    ```bash
    jupyter notebook main_notebook.ipynb
+
+**or**
+1. To start the Jupyter Notebook, use the following command:
+   ```bash
+   python main_script.py
+
+
+## Outputs
+
+- **Trained models** for various segmentation tasks.
+- **Performance comparison** across models and datasets.
+- **Predictions** for the test dataset saved in `predictions/test2.csv`.
+
+
+
