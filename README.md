@@ -53,9 +53,5 @@ The dataset used in this project consists of customer demographic information an
 ### Run the Jupyter Notebook:
 To start the Jupyter Notebook, use the following command:
 
-```bash
-jupyter notebook main_notebook.ipynb
-
-**or**
-
-python main_script.py
+   ```bash
+   jupyter notebook main_notebook.ipynb
